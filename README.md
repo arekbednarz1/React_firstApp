@@ -1,2 +1,1 @@
-# React_firstApp
-Created with CodeSandbox
+Prosty tłumacz z wykorzystaniem biblioteki react
